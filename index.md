@@ -13,6 +13,8 @@ information systems engineering.
 
 
 ### Knowledge
+  Laguages: Spanish/English
+
   Basic HTML
   
   Salary Easy Soft
