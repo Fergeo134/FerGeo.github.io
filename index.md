@@ -1,4 +1,4 @@
-<img src="https://scontent.faep28-2.fna.fbcdn.net/v/t1.0-9/126625631_10221633735666634_3898650110456678590_o.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=ycAHsWLTTWAAX9KrEKH&_nc_oc=AQmP3RUS1j6FbdSHIpiK2jqT9ZrRVGhPCBTcB76G-4552g8o8FAQF2s-o8nCd-EgYjk&_nc_ht=scontent.faep28-2.fna&oh=59babbf31412798c7a7783935a56c923&oe=5FDDBC14" alt="drawing" width="200"/>
+<img src="https://scontent.faep28-2.fna.fbcdn.net/v/t1.0-9/126625631_10221633735666634_3898650110456678590_o.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=ycAHsWLTTWAAX9KrEKH&_nc_oc=AQmP3RUS1j6FbdSHIpiK2jqT9ZrRVGhPCBTcB76G-4552g8o8FAQF2s-o8nCd-EgYjk&_nc_ht=scontent.faep28-2.fna&oh=59babbf31412798c7a7783935a56c923&oe=5FDDBC14" alt="drawing" width="150" class="center"/>
 
 
 ### Basic Information
