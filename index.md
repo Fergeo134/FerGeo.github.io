@@ -13,13 +13,19 @@ information systems engineering.
 
 
 ### Knowledge
-  -Basic HTML
-  -Salary Easy Soft
-  -Exacta Easy Soft
-  -Siap and Siapre
-  -Basic Objects oriented programming
-  -Basic mySQL
-  -First Aids (Emergency First Response certified by PADI)
+  Basic HTML
+  
+  Salary Easy Soft
+  
+  Exacta Easy Soft
+  
+  Siap and Siapre
+  
+  Basic Objects oriented programming
+  
+  Basic mySQL
+  
+  First Aids (Emergency First Response certified by PADI)
   
 ### Other interest
 I´m a Rescue Diver on my way to Dive Master. Also im a videogames enthusiast.
@@ -27,15 +33,20 @@ I´m a Rescue Diver on my way to Dive Master. Also im a videogames enthusiast.
 ### Contact Information:
 
  Mail: Fernando_georgetti@hotmail.com
+ 
  Cell: 11 6530 7809
 
 ### References:
 -Samir Villavicencio:
+
     -Telephone: 15 3474 0134
+    
     -Mail: samir.v.sj@gmail.com - samir.villavicencio@gestionit.com.ar
     
 -Edith Mariños:
+
     -Telephone: 11 6155 0230
+    
     -Mail: eedithmm1@hotmail.com
 
 
