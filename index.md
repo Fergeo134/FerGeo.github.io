@@ -44,15 +44,15 @@ I´m a Rescue Diver on my way to Dive Master. Also I am a videogames enthusiast.
 ### References:
 -Samir Villavicencio:
 
-    -Telephone: 15 3474 0134
+      -Telephone: 15 3474 0134
     
-    -Mail:  samir.v.sj@gmail.com 
+      -Mail:  samir.v.sj@gmail.com 
     
-            samir.villavicencio@gestionit.com.ar
+              samir.villavicencio@gestionit.com.ar
     
 -Edith Mariños:
 
-    -Telephone: 11 6155 0230
+      -Telephone: 11 6155 0230
     
-    -Mail: eedithmm1@hotmail.com
+      -Mail: eedithmm1@hotmail.com
 
