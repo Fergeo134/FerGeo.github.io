@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Fergeo134/FerGeo.github.io/blob/gh-pages/foto.jpeg" alt="drawing" width="150" class="center"/>
+<img src="https://github.com/Fergeo134/FerGeo.github.io/blob/gh-pages/foto.jpeg" width="150"/>
 </p>
 
 ### Basic Information
