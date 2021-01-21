@@ -28,7 +28,7 @@ I have been working for an accountancy firm for the last 6 years. I am currently
   
   Basic Objects oriented programming
   
-  Basic mySQL
+  Basic PHP
   
   First Aids (Emergency First Response certified by PADI)
   
