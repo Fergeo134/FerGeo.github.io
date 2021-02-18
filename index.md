@@ -5,12 +5,12 @@
 ## seleccione su lenguaje/Select your language:
 
 ### English/Ingles
-<form action="https://github.com/Fergeo134/FerGeo.github.io/blob/gh-pages/ingles.md">
+<form action="https://fergeo134.github.io/FerGeo.github.io/ingles.md">
     <input type="submit" value="Go to English Page" align="center" />
 </form>
 
 ### Spanish/Español
-<form action="https://github.com/Fergeo134/FerGeo.github.io/blob/gh-pages/espa%C3%B1ol.md">
+<form action="https://fergeo134.github.io/FerGeo.github.io/espa%C3%B1ol.md">
     <input type="submit" value="Ir a la pagina en Español" align="center" />
 </form>
 
