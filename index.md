@@ -4,12 +4,12 @@
 
 ## seleccione su lenguaje/Select your language:
 
-### Ingles
+### English/Ingles
 <form action="https://github.com/Fergeo134/FerGeo.github.io/blob/gh-pages/ingles.md">
     <input type="submit" value="Go to English Page" align="center" />
 </form>
 
-### Español
+### Spanish/Español
 <form action="https://github.com/Fergeo134/FerGeo.github.io/blob/gh-pages/espa%C3%B1ol.md">
     <input type="submit" value="Ir a la pagina en Español" align="center" />
 </form>
