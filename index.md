@@ -17,9 +17,11 @@ One of the things I really like is to take on new challenges and overcome the di
 I have been working for an accountancy firm for the last 6 years. I am currently studying at Universidad Tecnologica Nacional (U.T.N) with a major in information systems engineering.
 
 ### Knowledge
-  Laguages: Spanish/English
+  Laguages: Spanish(native) / English (First Certificate Exam by Cambridge)
 
   Basic HTML
+  
+  Basic MySQL
   
   Salary Easy Soft
   
@@ -60,6 +62,5 @@ I´m a Rescue Diver on my way to Dive Master. Also I am a videogames enthusiast.
 
 
 
-<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=7&id=15102&s=2' border='0' alt='Free Website Counter'></a></div>
 
 
