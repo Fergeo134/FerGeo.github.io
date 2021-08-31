@@ -17,7 +17,7 @@ One of the things I really like is to take on new challenges and overcome the di
 I have been working for an accountancy firm for the last 6 years. I am currently studying at Universidad Tecnologica Nacional (U.T.N) with a major in information systems engineering.
 
 ### Knowledge
-  Laguages: Spanish(native) / English (First Certificate Exam by Cambridge)
+  Laguages: Spanish (native) / English (First Certificate Exam by Cambridge)
 
   Basic HTML
   
