@@ -23,6 +23,8 @@ I have been working for an accountancy firm for the last 6 years. I am currently
   
   Basic MySQL
   
+  QA Testing (course in progress - Testing 4.0 - Codo a Codo from Buenos Aires Ciudad) 
+  
   Salary Easy Soft
   
   Exacta Easy Soft
@@ -34,6 +36,7 @@ I have been working for an accountancy firm for the last 6 years. I am currently
   Basic PHP
   
   First Aids (Emergency First Response certified by PADI)
+ 
   
 ### Other interests
 I´m a Rescue Diver on my way to Dive Master. Also I am a videogames enthusiast.
