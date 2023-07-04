@@ -1,3 +1,5 @@
 theme: jekyll-theme-merlot
 title: Fernando Georgetti
 description: Welcome to my page / Bienvenidos a mi pagina
+assets:
+  - assets/css/styles.css
