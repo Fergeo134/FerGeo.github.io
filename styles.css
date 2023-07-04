@@ -1,0 +1,27 @@
+<style>
+    body {
+        background-color: #121212; /* Color de fondo gris oscuro */
+        color: #ffffff; /* Color del texto en blanco */
+        font-family: Arial, sans-serif; /* Tipo de fuente */
+        line-height: 1.6; /* Altura de línea para facilitar la lectura */
+        margin: 0; /* Eliminar márgenes predeterminados */
+        padding: 20px; /* Agregar un poco de espacio interno */
+    }
+    
+    h1, h2 {
+        color: #ffc107; /* Color de encabezados en amarillo */
+    }
+
+    ul {
+        list-style-type: square; /* Cambiar el tipo de viñeta */
+    }
+
+    a {
+        color: #00bcd4; /* Color de enlaces en azul claro */
+        text-decoration: none; /* Eliminar subrayado de enlaces */
+    }
+
+    a:hover {
+        text-decoration: underline; /* Subrayado al pasar el ratón sobre los enlaces */
+    }
+    </style>
