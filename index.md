@@ -15,6 +15,7 @@ What sets me apart is my willingness to take on new challenges and tackle proble
 I have worked as a Testin specialist in Atos Argentina for 2 years as a manual tester. Before that i worked at an accountancy firm for 6 years. I am currently studying at Universidad Tecnologica Nacional (U.T.N) with a major in information systems engineering.
 Also had a testing course given by the goberment of the city of Buenos Aires (Testing 4.0 - codo a codo)
 
+
 ### Languages
 
   Spanish: Native
