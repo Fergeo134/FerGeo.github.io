@@ -16,7 +16,9 @@ I have worked as a Testin specialist in Atos Argentina for 2 years as a manual t
 Also had a testing course given by the goberment of the city of Buenos Aires (Testing 4.0 - codo a codo)
 
 ###Languages
+
   Spanish: Native
+  
   English: First Certificate Exam - Certified by Cambridge
 
 ### Respinsibilities
@@ -40,26 +42,45 @@ Also had a testing course given by the goberment of the city of Buenos Aires (Te
   Review APIS with Postman
 
 ### Knowledge
+
   Automatization with Testpath
+
   Automatization with Tosca
+
   Gherkin
+
   APIS consultation
+ 
   Basic knowledge on BDD and TDD
+  
   Agile Scrum Methodology
+  
   Data bases consultations with SQL and SQL Server
+  
   HTML
+  
   Postman
+  
   Project management in Jira
+  
   Analysis and design of requirements and test cases.
+  
   SIAP y SIAPRE systems (Argentinas goverments app)
+  
   Salary Easy Soft
+  
   Exacta Easy Soft
+  
   Payroll procesing
+  
   Logic, functional and object oriented programing with prolog, haskell and wollok respectibly
 
 ### Certifications
+ 
  Agile Scrum Methodology (Certified by Certiprof)
+ 
  Automation Specialist in Tosca (Certified by Tricentis)
+ 
  Emergency First Response (Certified by PADI)
   
 ### Other interests
@@ -72,6 +93,7 @@ I´m a Rescue Diver on my way to Dive Master, a grey belt archcher and a videoga
  Cell: 11 6530 7809 
 
 ### Curriculum PDF
+
  <a href="CV Georgetti eng.pdf">Download my CV in English </a>
  
  <a href="CV Georgetti.pdf">Download my CV in Spanish </a>
@@ -87,6 +109,7 @@ I´m a Rescue Diver on my way to Dive Master, a grey belt archcher and a videoga
      +5491141734954
     
      andrea.douce@atos.net
+
 -Zerpa Contreras Erianne:
      
      Telephone: +54 9 11 6429-4799
