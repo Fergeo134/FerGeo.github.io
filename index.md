@@ -12,8 +12,8 @@ What sets me apart is my willingness to take on new challenges and tackle proble
 
 ### Previous jobs and studies
 
-I have worked as a Testing specialist in Atos Argentina for 2 years as a manual tester. Before that i worked at an accountancy firm for 6 years. I am currently studying at Universidad Tecnologica Nacional (U.T.N) with a major in information systems engineering.
-Also had a testing course given by the goberment of the city of Buenos Aires (Testing 4.0 - codo a codo)
+I have worked as a Testing specialist in Atos Argentina for 2 years as a manual tester. Before that i worked at an accountancy firm for 6 years. I am currently studying at Universidad Tecnologica Nacional (U.T.N) with a specialization in information systems engineering.
+Also had a testing course given by the government of the city of Buenos Aires (Testing 4.0 - codo a codo)
 
 
 ### Languages
@@ -85,7 +85,7 @@ Also had a testing course given by the goberment of the city of Buenos Aires (Te
  Emergency First Response (Certified by PADI)
   
 ### Other interests
-I´m a Rescue Diver on my way to Dive Master, a grey belt archcher and a videogames enthusiast.
+I'm a Rescue Diver on my way to Dive Master and a grey belt archcher.
 
 ### Contact Information:
 
@@ -93,11 +93,11 @@ I´m a Rescue Diver on my way to Dive Master, a grey belt archcher and a videoga
  
  Cell: 11 6530 7809 
 
-### Curriculum PDF
+### Curriculum vitae PDF
 
- <a href="CV Georgetti eng.pdf">Download my CV in English </a>
+ <a href="CV Georgetti eng.pdf">Download my resume in English </a>
  
- <a href="CV Georgetti.pdf">Download my CV in Spanish </a>
+ <a href="CV Georgetti.pdf">Download my resume in Spanish </a>
 
 ### References:
 
