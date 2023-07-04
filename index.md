@@ -107,7 +107,7 @@ I´m a Rescue Diver on my way to Dive Master, a grey belt archcher and a videoga
      
 -Douce Andrea:
     
-     +5491141734954
+     Telephone: +5491141734954
     
      andrea.douce@atos.net
 
@@ -119,13 +119,13 @@ I´m a Rescue Diver on my way to Dive Master, a grey belt archcher and a videoga
 
 -Samir Villavicencio:
 
-      Telephone: 15 3474 0134
+      Telephone: +54 9 15 3474 0134
     
       Mail:  samir.v.sj@gmail.com 
     
 -Edith Mariños:
 
-      Telephone: 11 6155 0230
+      Telephone: +54 9 11 6155 0230
     
       Mail: eedithmm1@hotmail.com
 
