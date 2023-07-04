@@ -22,7 +22,7 @@ Also had a testing course given by the goberment of the city of Buenos Aires (Te
   
   English: First Certificate Exam - Certified by Cambridge
 
-### Respinsibilities
+### Responsibilities
 
   Design and execution of test cases on front end and back end
   
@@ -132,4 +132,4 @@ I´m a Rescue Diver on my way to Dive Master, a grey belt archcher and a videoga
 
 
 
-<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=7&id=15102&s=2' border='0' alt='Free Website Counter'></a></div>
+
