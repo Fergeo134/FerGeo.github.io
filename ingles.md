@@ -13,12 +13,13 @@ What sets me apart is my willingness to take on new challenges and tackle proble
 ### Previous jobs and studies
 
 I have worked as a Testin specialist in Atos Argentina for 2 years as a manual tester. Before that i worked at an accountancy firm for 6 years. I am currently studying at Universidad Tecnologica Nacional (U.T.N) with a major in information systems engineering.
+Also had a testing course given by the goberment of the city of Buenos Aires (Testing 4.0 - codo a codo)
 
 ###Languages
   Spanish: Native
   English: First Certificate Exam - Certified by Cambridge
 
-### Resoinsibilities
+### Respinsibilities
 
   Design and execution of test cases on front end and back end
   
@@ -55,6 +56,11 @@ I have worked as a Testin specialist in Atos Argentina for 2 years as a manual t
   Exacta Easy Soft
   Payroll procesing
   Logic, functional and object oriented programing with prolog, haskell and wollok respectibly
+
+### Certifications
+ Agile Scrum Methodology (Certified by Certiprof)
+ Automation Specialist in Tosca (Certified by Tricentis)
+ Emergency First Response (Certified by PADI)
   
 ### Other interests
 I´m a Rescue Diver on my way to Dive Master, a grey belt archcher and a videogames enthusiast.
@@ -63,36 +69,41 @@ I´m a Rescue Diver on my way to Dive Master, a grey belt archcher and a videoga
 
  Mail: Fernando_georgetti@hotmail.com
  
- Cell: 11 6530 7809
+ Cell: 11 6530 7809 
+
+### Curriculum PDF
+ <a href="CV Georgetti eng.pdf">Download my CV in English </a>
+ 
+ <a href="CV Georgetti.pdf">Download my CV in Spanish </a>
 
 ### References:
 
 -Meyer Federico:
      
-     -Telephone: +54 9 11 3791-5725
+     Telephone: +54 9 11 3791-5725
      
 -Douce Andrea:
     
-     -+5491141734954
+     +5491141734954
     
-     -andrea.douce@atos.net
+     andrea.douce@atos.net
 -Zerpa Contreras Erianne:
      
-     -Telephone: +54 9 11 6429-4799
+     Telephone: +54 9 11 6429-4799
      
-     -Mail: erianne.zerpa@gmail.com
+     Mail: erianne.zerpa@gmail.com
 
 -Samir Villavicencio:
 
-      -Telephone: 15 3474 0134
+      Telephone: 15 3474 0134
     
-      -Mail:  samir.v.sj@gmail.com 
+      Mail:  samir.v.sj@gmail.com 
     
 -Edith Mariños:
 
-      -Telephone: 11 6155 0230
+      Telephone: 11 6155 0230
     
-      -Mail: eedithmm1@hotmail.com
+      Mail: eedithmm1@hotmail.com
 
 
 
