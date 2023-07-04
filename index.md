@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <label class="switch">
-    <input type="checkbox" id="dark-mode-toggle">
-    <span class="slider round"></span>
-  </label>
-
 <p align="center">
 <img src="https://github.com/Fergeo134/FerGeo.github.io/blob/gh-pages/foto.jpeg?raw=true" width="150"/>
 </p>
@@ -141,8 +130,5 @@ I'm a Rescue Diver on my way to Dive Master and a grey belt archcher.
       Mail: eedithmm1@hotmail.com
 
 
-<script src="script.js"></script>
-</body>
-</html>
 
 
