@@ -93,7 +93,7 @@ I'm a Rescue Diver on my way to Dive Master and a grey belt archcher.
  
  Cell: 11 6530 7809 
 
- Linkedin: <a href="https://www.linkedin.com/in/fernando-georgetti-61b36bab/" target="_blank">Mi perfil de LinkedIn</a>
+ Linkedin: <a href="https://www.linkedin.com/in/fernando-georgetti-61b36bab/" target="_blank">My LinkedIn profile</a>
 
 ### Curriculum vitae PDF
 
