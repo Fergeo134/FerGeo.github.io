@@ -90,8 +90,10 @@ I'm a Rescue Diver on my way to Dive Master and a grey belt archcher.
 ### Contact Information:
 
  Mail: Fernando_georgetti@hotmail.com
+
+ Whatsapp: <a href="https://wa.me/qr/HCKQEFTUB4K6M1" target="_blank">My whatsapp</a>
  
- Cell: 11 6530 7809 
+ Cell: +54 9 11 6530 7809 
 
  Linkedin: <a href="https://www.linkedin.com/in/fernando-georgetti-61b36bab/" target="_blank">My LinkedIn profile</a>
 
